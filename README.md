@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/GoLang-mine?style=for-the-badge&logo=Go&color=white)
 ![Static Badge](https://img.shields.io/badge/java-mine?style=for-the-badge&logo=openjdk&logoColor=yellow&color=darkblue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0m0n)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.c0m0n.app/api?username=C0m0n)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **C0m0n/C0m0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
