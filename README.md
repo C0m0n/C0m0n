@@ -1,5 +1,6 @@
 ### Languages
 ![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 <!--
 **C0m0n/C0m0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
