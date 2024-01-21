@@ -1,6 +1,9 @@
 ### Languages
-![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/python-mine?style=for-the-badge&logo=Python&color=yellow)
 ![Static Badge](https://img.shields.io/badge/javascript-mine?style=for-the-badge&logo=JavaScript&color=blue)
+![Static Badge](https://img.shields.io/badge/GoLang-mine?style=for-the-badge&logo=Go&color=white)
+![Static Badge](https://img.shields.io/badge/java-mine?style=for-the-badge&logo=openjdk&logoColor=yellow&color=darkblue)
+
 
 <!--
 **C0m0n/C0m0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
